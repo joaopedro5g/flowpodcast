@@ -1,0 +1,10 @@
+{
+  "scopes": [
+    "floow-connect",
+    "user-account-view",
+    "user-shop-buyed",
+    "user-emblem-view",
+    "user-emblem-changed",
+    "user-cash-view"
+  ]
+}

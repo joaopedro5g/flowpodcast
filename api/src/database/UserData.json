@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "João Pedro",
+    "email": "1234@gmail.com",
+    "senha": "jp123",
+    "isMember": false,
+    "image": "https://pbs.twimg.com/profile_images/1353801866702954497/69LXwFLF_400x400.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Igor 3 Kraio",
+    "email": "igor3k@gmail.com",
+    "senha": "3k123",
+    "isMember": "Burgues",
+    "image": "https://pbs.twimg.com/profile_images/1310058377515536384/D4pdOxtk_400x400.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Monarconha",
+    "email": "maconhark@gmail.com",
+    "senha": "monark123",
+    "isMember": "Humilde",
+    "image": "https://pbs.twimg.com/profile_images/1322918184903675905/MPWXf0eQ_400x400.jpg"
+  }
+]
