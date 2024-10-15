@@ -32,7 +32,7 @@ Este projeto foi criado para aprender e explorar **NodeJS**, **NextJS**, **Socke
 2. Inicie o **backend**:
 
    ```bash
-   cd backend
+   cd api
    yarn install
    yarn start
    ```
