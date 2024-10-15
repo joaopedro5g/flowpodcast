@@ -48,7 +48,7 @@ Este projeto foi criado para aprender e explorar **NodeJS**, **NextJS**, **Socke
 4. Para testar o **demo em Electron**:
 
    ```bash
-   cd demo-electron
+   cd sdk
    yarn install
    yarn start
    ```
